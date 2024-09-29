@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2024-05-25'
+title: 'Senior Programmer'
+company: 'DAT (DIR-ACE Technology)'
+location: 'Yangon, Myanmar'
+range: 'March 2023 - May 2024'
+url: 'https://www.diracetechnology.com'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
