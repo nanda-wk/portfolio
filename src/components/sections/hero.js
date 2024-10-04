@@ -67,11 +67,7 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in iOS development, with experience building scalable
         and maintainable applications using Swift, UIKit, and SwiftUI. Currently, I am focused on
-        building user-centered iOS projects while actively seeking iOS engineering roles in{' '}
-        <a href="https://visit.bangkok.go.th" target="_blank" rel="noreferrer">
-          Bangkok, Thailand
-        </a>
-        .
+        building user-centered iOS projects while actively seeking iOS engineering roles.
       </p>
     </>
   );

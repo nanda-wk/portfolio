@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Nanda Win Kyu',
     description: 'Nanda Win Kyu is a software engineer.',
-    siteUrl: 'https://nandawk.com', // No trailing slash allowed!
+    siteUrl: 'https://nandawinkyu.me', // No trailing slash allowed!
     image: '/logo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },

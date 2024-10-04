@@ -146,8 +146,8 @@ const About = () => {
             </p>
 
             <p>
-              I have relocated to <a href="https://visit.bangkok.go.th">Bangkok, Thailand</a>, where
-              I am currently looking for software engineer roles and actively building iOS projects.
+              I have relocated to <a href="https://visit.bangkok.go.th">Bangkok, Thailand</a>, and I
+              am currently looking for software engineer roles and actively building iOS projects.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
