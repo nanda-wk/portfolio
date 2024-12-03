@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Water Tracker App'
 cover: './demo.png'
 github: 'https://github.com/nanda-wk/WaterTracker.git'
