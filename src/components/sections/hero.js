@@ -61,13 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nanda Win Kyu.</h2>;
-  const three = <h3 className="big-heading">I love building amazing products.</h3>;
+  const three = <h3 className="big-heading">I Design. I Code. I Launch iOS Apps.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in iOS development, crafting scalable, user-centered
-        apps with Swift, SwiftUI, and Core Data. I’m passionate about creating seamless experiences
-        and seeking opportunities to build impactful iOS products.
+        From idea to App Store, I design and develop beautiful, functional iOS apps using SwiftUI,
+        Combine, and modern Apple frameworks. Let's build something great together.
       </p>
     </>
   );

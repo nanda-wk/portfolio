@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Expense Tracker App'
 cover: './demo.png'
 github: 'https://github.com/nanda-wk/ExpenseTracker.git'

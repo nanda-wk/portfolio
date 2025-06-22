@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Rick and Morty Infoverse'
 cover: './screens.png'
 github: 'https://github.com/nanda-wk/RickAndMortyInfoverse.git'

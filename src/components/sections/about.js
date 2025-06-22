@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Swift', 'SwiftUI', 'Core Data', 'Firebase', 'Xcode', 'Java', 'CShell', 'VBA'];
+  const skills = ['Swift', 'SwiftUI', 'UIKit', 'Core Data', 'Firebase', 'Xcode', 'XCTest', 'Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,19 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Nanda and I like to learn new things, I love solving problems.
-              Throughout my career, I have been driven by my intellectual curiosity to provide
-              solutions to the most pressing problems.
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.diracetechnology.com">DIR Groups of companies in Japan</a>.{' '}
-            </p>
-
-            <p>
-              I have relocated to <a href="https://visit.bangkok.go.th">Bangkok, Thailand</a>, and I
-              am currently looking for software engineer roles and actively building iOS projects.
+              My journey into iOS development started with curiosity and grew into a full-time
+              passion. With a background in software engineering and hands-on experience in
+              freelance and product development, I’ve built apps that help users track progress,
+              form habits, and stay connected. I focus on modern iOS techniques — using SwiftUI,
+              Combine, Core Data, and Firebase — and I care about the small details that make an app
+              feel great.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
