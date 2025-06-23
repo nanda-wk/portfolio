@@ -2,7 +2,7 @@
 date: '1'
 title: 'KoeNaWin(ကိုးနဝင်း)'
 cover: './demo.png'
-appStore: 'apple.com'
+appStore: 'https://apps.apple.com/us/app/koenawin-practice/id6747106061'
 github: 'https://github.com/nanda-wk/KoeNaWin.git'
 cta: ''
 tech:

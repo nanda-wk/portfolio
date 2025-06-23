@@ -6,6 +6,7 @@ import sr from '@utils/sr';
 import { srConfig } from '@config';
 import { Icon } from '@components/icons';
 import { usePrefersReducedMotion } from '@hooks';
+import IconAppStore from '../icons/appstore';
 
 const StyledProjectsGrid = styled.ul`
   ${({ theme }) => theme.mixins.resetList};
@@ -323,6 +324,7 @@ const Featured = () => {
               github
               external
               cta
+              appStore
             }
             html
           }
@@ -355,7 +357,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta, appStore } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -395,6 +397,11 @@ const Featured = () => {
                       {external && !cta && (
                         <a href={external} aria-label="External Link" className="external">
                           <Icon name="External" />
+                        </a>
+                      )}
+                      {appStore && (
+                        <a href={appStore} aria-label="App Store Link">
+                          <IconAppStore />
                         </a>
                       )}
                     </div>
