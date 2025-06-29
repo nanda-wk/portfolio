@@ -135,12 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My journey into iOS development started with curiosity and grew into a full-time
-              passion. With a background in software engineering and hands-on experience in
-              freelance and product development, I’ve built apps that help users track progress,
-              form habits, and stay connected. I focus on modern iOS techniques — using SwiftUI,
-              Combine, Core Data, and Firebase — and I care about the small details that make an app
-              feel great.
+              My journey started in enterprise Java development and evolved into a full-time passion
+              for iOS. After launching apps like KoeNaWin on the App Store and contributing to
+              real-world freelance projects, I now specialize in building SwiftUI apps using MVVM
+              architecture, Combine, and Core Data. I enjoy shipping polished, localized iOS apps
+              that people use daily. Whether it’s for personal growth, productivity, or
+              entertainment, I build apps that work intuitively and look great doing it.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
